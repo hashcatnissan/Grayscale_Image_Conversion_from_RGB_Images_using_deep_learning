@@ -15,9 +15,8 @@ git clone https://github.com/hashcatnissan/Grayscale_Image_Conversion_from_RGB_I
 # Install the necessary packages by running the following command:
 
 pip install -r requirements.txt
-
-# Download the trained model:
-# Download the trained model from the following link and save it to the root directory of the cloned repository:
+ Download the trained model:
+ Download the trained model from the following link and save it to the root directory of the cloned repository:
 
 
 # Run the script:
